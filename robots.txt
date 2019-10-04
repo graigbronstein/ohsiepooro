@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laphohbea.kolko.dev/sitemap.xml
